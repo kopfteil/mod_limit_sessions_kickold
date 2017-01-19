@@ -1,5 +1,5 @@
 # mod_limit_sessions_kickold
-Prosody XMPP Server plugin in lua to limit concurrent sessions a client can have and kick the oldest on exceed
+Prosody XMPP Server plugin in lua to limit concurrent sessions(concurrent connections on different resources) a user can have and kick the oldest on exceed
 
 I did not make this plugin, i only adapted it to kick the oldest,
 instead of newest session.
