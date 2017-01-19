@@ -1,4 +1,4 @@
--- mod_c2s_limit_sessions
+-- mod_c2s_limit_sessions_kickold
 
 local next, count = next, require "util.iterators".count;
 
